@@ -9,13 +9,11 @@ A barebone weather app with authentication.
 ## How to Run
 1. In this project's directory, run
 ```
+npm install
 expo install
-```
-2. Run 
-```
 expo start
 ```
-3. At `http://localhost:19002/`, switch connection mode from LAN to Tunnel, and scan the QR code to open the Expo Go app.
+2. At `http://localhost:19002/`, switch connection mode from LAN to Tunnel, and scan the QR code to open the Expo Go app.
 
 ## Peer Reviewer
 --Name here--
