@@ -13,7 +13,9 @@ npm install
 expo install
 expo start
 ```
-2. At `http://localhost:19002/`, switch connection mode from LAN to Tunnel, and scan the QR code to open the Expo Go app.
+2. At `http://localhost:19002/`, switch connection mode from LAN to Tunnel, and scan the QR code to open the Expo Go app on your iPhone.
+
+> Note: this app has not been tested on any other platforms
 
 ## Peer Reviewer
 --Name here--
