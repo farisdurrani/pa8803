@@ -4,7 +4,7 @@ A barebone weather app with authentication.
 
 > **Author:** [Faris Durrani](https://github.com/farisdurrani/) 903435920 <br/>
 > **Implemented:** 01/26/2021 - 01/30/2021 <br/>
-> **GitHub source:**: https://github.com/farisdurrani/pa88032
+> **GitHub source:**: https://github.com/farisdurrani/pa8803
 
 ## How to Run
 1. In this project's directory, run
