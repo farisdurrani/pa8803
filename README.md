@@ -18,4 +18,4 @@ expo start
 > Note: this app has not been tested on any other platforms
 
 ## Peer Reviewer
---Name here--
+Min Htat Kyaw (https://github.com/mkyaw6) 903436924
